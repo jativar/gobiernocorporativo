@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032741316767",
+    "firebase_url": "https://gobiernocorporativo-b5b0e.firebaseio.com",
+    "project_id": "gobiernocorporativo-b5b0e",
+    "storage_bucket": "gobiernocorporativo-b5b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032741316767:android:5f7706fbf0b0b327",
+        "android_client_info": {
+          "package_name": "com.gobiernocorporativo.gobiernocorporativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032741316767-uselr5cof8qrgbre7712qe57p7ma5ev1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobiernocorporativo.gobiernocorporativo",
+            "certificate_hash": "660620135e2ba5695cc74c53f2a5237b96eb1d34"
+          }
+        },
+        {
+          "client_id": "1032741316767-4hp3vrle0ofm3n23kfa60m2nq5p4oorn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCE_Sqw7qPq6qYhHHxy4B8q8SKgRkd5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032741316767-4hp3vrle0ofm3n23kfa60m2nq5p4oorn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
